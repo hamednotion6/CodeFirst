@@ -1,0 +1,16 @@
+C:\Users\123\OneDrive - medipol.edu.tr\Desktop\Codefirst3\MyCodeFirst\MyCodeFirst\bin\Debug\MyCodeFirst.exe.config
+C:\Users\123\OneDrive - medipol.edu.tr\Desktop\Codefirst3\MyCodeFirst\MyCodeFirst\bin\Debug\MyCodeFirst.exe
+C:\Users\123\OneDrive - medipol.edu.tr\Desktop\Codefirst3\MyCodeFirst\MyCodeFirst\bin\Debug\MyCodeFirst.pdb
+C:\Users\123\OneDrive - medipol.edu.tr\Desktop\Codefirst3\MyCodeFirst\MyCodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\123\OneDrive - medipol.edu.tr\Desktop\Codefirst3\MyCodeFirst\MyCodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\123\OneDrive - medipol.edu.tr\Desktop\Codefirst3\MyCodeFirst\MyCodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\123\OneDrive - medipol.edu.tr\Desktop\Codefirst3\MyCodeFirst\MyCodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\123\OneDrive - medipol.edu.tr\Desktop\Codefirst3\MyCodeFirst\MyCodeFirst\obj\Debug\MyCodeFirst.csproj.AssemblyReference.cache
+C:\Users\123\OneDrive - medipol.edu.tr\Desktop\Codefirst3\MyCodeFirst\MyCodeFirst\obj\Debug\MyCodeFirst.csproj.SuggestedBindingRedirects.cache
+C:\Users\123\OneDrive - medipol.edu.tr\Desktop\Codefirst3\MyCodeFirst\MyCodeFirst\obj\Debug\MyCodeFirst.Form1.resources
+C:\Users\123\OneDrive - medipol.edu.tr\Desktop\Codefirst3\MyCodeFirst\MyCodeFirst\obj\Debug\MyCodeFirst.Properties.Resources.resources
+C:\Users\123\OneDrive - medipol.edu.tr\Desktop\Codefirst3\MyCodeFirst\MyCodeFirst\obj\Debug\MyCodeFirst.csproj.GenerateResource.cache
+C:\Users\123\OneDrive - medipol.edu.tr\Desktop\Codefirst3\MyCodeFirst\MyCodeFirst\obj\Debug\MyCodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\123\OneDrive - medipol.edu.tr\Desktop\Codefirst3\MyCodeFirst\MyCodeFirst\obj\Debug\MyCodeFirst.csproj.CopyComplete
+C:\Users\123\OneDrive - medipol.edu.tr\Desktop\Codefirst3\MyCodeFirst\MyCodeFirst\obj\Debug\MyCodeFirst.exe
+C:\Users\123\OneDrive - medipol.edu.tr\Desktop\Codefirst3\MyCodeFirst\MyCodeFirst\obj\Debug\MyCodeFirst.pdb
